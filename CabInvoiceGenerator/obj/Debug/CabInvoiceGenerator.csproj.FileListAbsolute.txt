@@ -1,0 +1,7 @@
+C:\Users\Bishal Pradhan\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\CabInvoiceGenerator.csprojAssemblyReference.cache
+C:\Users\Bishal Pradhan\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Bishal Pradhan\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\CabInvoiceGenerator.exe.config
+C:\Users\Bishal Pradhan\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\CabInvoiceGenerator.exe
+C:\Users\Bishal Pradhan\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\CabInvoiceGenerator.pdb
+C:\Users\Bishal Pradhan\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\CabInvoiceGenerator.exe
+C:\Users\Bishal Pradhan\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\CabInvoiceGenerator.pdb
